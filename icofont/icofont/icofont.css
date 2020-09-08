@@ -12,8 +12,8 @@
   font-family: "IcoFont";
 font-weight: normal;
 font-style: "Regular";
-src: url("https://github.com/gift134/jna/blob/master/icofont/icofont/fonts/icofont.woff2?raw=true") format("woff2"),
-url("https://github.com/gift134/jna/blob/master/icofont/icofont/fonts/icofont.woff?raw=true") format("woff");
+src: url("fonts/icofont.woff2") format("woff2"),
+url("fonts/icofont.woff") format("woff");
 }
 
 [class^="icofont-"], [class*=" icofont-"]
